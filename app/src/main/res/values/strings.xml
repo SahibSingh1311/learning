@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InchesToCentimeter</string>
+    <string name="text_view_heading">Inches to Centimeter</string>
+    <string name="text_view_message">Please enter your input</string>
+    <string name="text_view_output_message">Centimeters</string>
+    <string name="text_view_error_message">Please enter a positive value</string>
+    <string name="input_label">Inches</string>
+</resources>
