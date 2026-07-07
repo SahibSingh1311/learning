@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SendDataFromOneActivityToAnother</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="button_go_to_second_activity">Go To</string>
+    <string name="button_go_back_to_first_activity">Go Back</string>
 </resources>
